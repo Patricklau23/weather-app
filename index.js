@@ -60,7 +60,7 @@ search.addEventListener('click', () => {
                     container.style.backgroundImage = "url('images/cloudbackground.jpg')";
                     break;
 
-                case 'Haze':
+                case 'Mist':
                     image.src = 'images/mist.png';
                     container.style.backgroundImage = "url('images/hazebackground.jpg')";
                     break;
